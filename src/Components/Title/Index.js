@@ -4,8 +4,8 @@ import styles from "./Style";
 export default function Title(){
  return(
  <View style={styles.BoxTitle}>
- <Text style={styles.texTitle}>Trabalho de DDM - Grupo 4 </Text>
- <Text style={styles.Text}>Rebecca, Pedro Salla, Renan e Vitória</Text>
+ <Text style={styles.texTitle}>Trabalho de DDM - Grupo 2 </Text>
+ 
 
  </View>
  );

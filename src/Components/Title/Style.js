@@ -7,10 +7,5 @@ const styles = StyleSheet.create({
  color: "#33658A",
  fontWeight: "bold"
  },
- Text: {
-    color: "#F26419", 
-    fontWeight: "bold",
-    
- }
 });
 export default styles
