@@ -1,10 +1,16 @@
 import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
- Caixa: {
+ BoxTitle: {
  alignItems: "center",
  },
  texTitle: {
- color: "#00CFC1",
+ color: "#33658A",
+ fontWeight: "bold"
  },
+ Text: {
+    color: "#F26419", 
+    fontWeight: "bold",
+    
+ }
 });
 export default styles
