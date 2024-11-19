@@ -1,0 +1,42 @@
+import { Share, StyleSheet } from "react-native";
+const styles = StyleSheet.create({
+ resultImc:{
+ flex:1,
+ marginTop:15,
+ paddingTop:60,
+ borderRadius:50,
+ alignItems:"center",
+ width:"100%",
+ fontSize:48,
+ color:"#FF0043",
+ fontWeight:"bold",
+ },
+ numberImc:{
+ fontSize:48,
+ color:"#FF0043",
+ fontWeight:"bold",
+ },
+ information:{
+ fontSize:48,
+ color:"#FF0043",
+ fontWeight:"bold",
+ },
+ boxsharebutton:{
+ width: "100",
+ alignItems:"center",
+ marginBotto:10,
+ },
+ shared:{
+ backgroundColor: "#1877f2",
+ borderRadius:50,
+ paddingBottom:5,
+ paddingTop:5,
+ },
+
+ sharedText:{
+ color: '#ffffff',
+ fontWeight:"bold",
+ paddingHorizontal:30,
+ },
+});
+export default styles 
